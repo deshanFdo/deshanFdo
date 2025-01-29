@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Deshan..😉
 
 I'm an undergraduate student from Sri Lanka with proficiency in HTML5, CSS3, JavaScript, PHP, SQL, Python, and Java.  
-![Profile views](https://komarev.com/ghpvc/?username=deshanFdo&label=Profile%20views&color=lightgreystyle=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=deshanFdo&label=Profile%20views&color=lightgrey&style=plastic)
 
 ## 🏆 GitHub Trophies
 
