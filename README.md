@@ -256,9 +256,14 @@ const deshan: Developer = {
 
 ---
 
-<!-- Snake Animation eating contribution graph -->
+<!-- Snake Animation eating YOUR contribution graph -->
+<!-- This snake is generated from YOUR contributions via GitHub Actions -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake.svg">
+  </picture>
 </div>
 
 ---
