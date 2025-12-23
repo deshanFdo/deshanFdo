@@ -223,14 +223,6 @@ const deshan: Developer = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deshanFdo&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -250,8 +242,7 @@ const deshan: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📞_+94_76_9106285-25D366?style=for-the-badge" alt="Phone"/>
-  <img src="https://img.shields.io/badge/📍_Colombo,_Sri_Lanka-FF5722?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/_Colombo,_Sri_Lanka-FF5722?style=for-the-badge" alt="Location"/>
 </div>
 
 ---
