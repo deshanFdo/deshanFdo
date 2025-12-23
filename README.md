@@ -24,9 +24,6 @@
 
 <br/>
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="340" src="./assets/coding.gif"/>
-
 ## 👨‍💻 About Me
 
 ```typescript
@@ -259,13 +256,9 @@ const deshan: Developer = {
 
 ---
 
-<!-- Snake Animation (Self-hosted via GitHub Actions) -->
+<!-- Snake Animation eating contribution graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 </div>
 
 ---
