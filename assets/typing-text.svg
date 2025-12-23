@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="50" viewBox="0 0 600 50">
+  <style>
+    @keyframes typing {
+      0%, 100% { width: 0; }
+      20%, 80% { width: 100%; }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .typing-text {
+      font-family: 'Fira Code', 'Consolas', monospace;
+      font-size: 20px;
+      font-weight: 600;
+      fill: #6366f1;
+    }
+    .cursor {
+      animation: blink 1s infinite;
+      fill: #6366f1;
+    }
+  </style>
+  
+  <text class="typing-text" x="10" y="32">
+    Software Engineer Intern @ Sri Lanka Telecom 💻
+  </text>
+  <rect class="cursor" x="520" y="15" width="3" height="25" rx="1"/>
+</svg>

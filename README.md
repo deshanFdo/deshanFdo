@@ -1,13 +1,13 @@
-<!-- Animated Header -->
+<!-- Custom Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deshan%20Fernando&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="./assets/header-banner.svg" alt="Deshan Fernando - Software Engineer" width="800"/>
 </div>
 
-<!-- Typing Animation -->
+<br/>
+
+<!-- Typing Animation (Local) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+Intern+%40+Sri+Lanka+Telecom+%F0%9F%8F%A2;Full-Stack+Developer+%7C+MERN+Stack+%F0%9F%92%BB;BSc+Computer+Science+%40+Westminster+%F0%9F%8E%93;IEEE+Xtreme+Top+10+Finalist+%F0%9F%8F%86;Building+Scalable+Applications+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="./assets/typing-text.svg" alt="Software Engineer Intern @ Sri Lanka Telecom" width="600"/>
 </div>
 
 <br/>
@@ -25,7 +25,7 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="340" src="./assets/coding.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -66,9 +66,7 @@ const deshan: Developer = {
 
 <table>
 <tr>
-<td width="80" align="center">
-  <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" alt="Education"/>
-</td>
+<td width="80" align="center">🎓</td>
 <td>
   <strong>BSc (Hons) in Computer Science</strong><br/>
   University of Westminster, UK<br/>
@@ -77,9 +75,7 @@ const deshan: Developer = {
 </td>
 </tr>
 <tr>
-<td width="80" align="center">
-  <img src="https://img.icons8.com/color/48/000000/certificate.png" alt="Certificate"/>
-</td>
+<td width="80" align="center">📜</td>
 <td>
   <strong>Foundation Certificate in Higher Education IT</strong><br/>
   IIT, Sri Lanka<br/>
@@ -94,8 +90,8 @@ const deshan: Developer = {
 ## 💼 Professional Experience
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Sri%20Lanka%20Telecom-Software%20Engineer%20Intern-0066cc?style=for-the-badge&logo=buffer&logoColor=white" alt="SLT"/>
-  <br/>
+  <h3>🏢 Sri Lanka Telecom</h3>
+  <strong>Software Engineer Intern</strong><br/>
   <em>June 2025 - Present | Colombo, Sri Lanka</em>
 </div>
 
@@ -263,24 +259,22 @@ const deshan: Developer = {
 
 ---
 
-<!-- Snake Animation -->
+<!-- Snake Animation (Self-hosted via GitHub Actions) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/deshanFdo/deshanFdo/output/github-snake.svg">
   </picture>
 </div>
 
-<!-- Footer -->
+---
+
+<!-- Custom Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="./assets/footer-banner.svg" alt="Thanks for visiting!" width="800"/>
 </div>
 
 <div align="center">
-  
-  ### 💜 Thanks for visiting my profile! Let's build something amazing together! 💜
-  
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-6366f1?style=for-the-badge" alt="Open to Opportunities"/>
-  
 </div>
