@@ -180,23 +180,8 @@ const deshan: Developer = {
 
 <div align="center">
 
-### 🏢 [Smart Employee Platform](https://github.com/deshanFdo)
-**Full-Stack Enterprise Solution** | Node.js • React • MySQL • TypeScript
-
-</div>
-
-> 🔐 **Role-Based Access Control (RBAC)**: Comprehensive multi-tier employee assessment system with fine-grained permissions.
-> 
-> ⚙️ **Workflow Automation**: Automated SMART goal monitoring, progress milestones, and training recommendation pipelines.
-> 
-> 📊 **Data Isolation**: Robust server-side boundary enforcement ensuring privacy compliance across departments.
-
----
-
-<div align="center">
-
 ### ⚖️ [LawLinkLK](https://github.com/deshanFdo)
-**Full-Stack Legal Platform** | MongoDB • Express • React • Node.js • OpenAI API • Socket.io
+**Full-Stack Legal Consultation Platform** | MongoDB • Express • React • Node.js • OpenAI API • Socket.io
 
 </div>
 
@@ -211,7 +196,7 @@ const deshan: Developer = {
 <div align="center">
 
 ### 🌿 [Clean Energy Platform](https://github.com/deshanFdo/Clean-Energy-Website)
-**Collaborative Web Application** | JavaScript • HTML5 • CSS3 • Responsive Design
+**Collaborative Sustainability Platform** | JavaScript • HTML5 • CSS3 • Responsive Design
 
 </div>
 
@@ -242,6 +227,19 @@ const deshan: Developer = {
 > 🎫 **Seat Reservation Logic**: Concurrency-safe seat allocation, passenger manifest generation, and dynamic ticket management.
 > 
 > 📊 **Reliable Architecture**: Adheres strictly to Object-Oriented Principles and clean code standards.
+
+---
+
+<div align="center">
+
+### 🃏 [Card Swap & Interactive UI](https://github.com/deshanFdo/card-sawp)
+**Frontend Animation & State Management** | JavaScript • CSS3 Transforms • HTML5
+
+</div>
+
+> 🔄 **Dynamic 3D Animations**: Interactive card-swapping and rotation interface with smooth state transitions.
+> 
+> 🎨 **Modern Micro-interactions**: Lightweight, zero-dependency implementation showcasing front-end animation mastery.
 
 ---
 
