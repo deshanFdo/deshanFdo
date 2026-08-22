@@ -50,7 +50,7 @@ const deshan: Developer = {
 ```
 
 - 🎓 Final Year **BSc (Hons) Computer Science** Undergraduate at **University of Westminster**
-- 💼 Former **Software Engineer Intern** at **Sri Lanka Telecom** (Contributed to Smart Employee platform & backend services)
+- 💼 Former **Software Engineer Intern** at **Sri Lanka Telecom** (Engineered enterprise RESTful APIs & backend services)
 - 🏆 **Top 10 Finalist (Region 10)** in IEEE Xtreme Encode 2024 Programming Competition
 - 🔧 Building scalable full-stack applications with **React, Node.js, TypeScript, Next.js & MySQL/MongoDB**
 - ⚡ Passionate about clean code, robust database architecture, and performance optimization
@@ -120,9 +120,9 @@ const deshan: Developer = {
 
 | Area | Contributions |
 |------|---------------|
-| 🔧 **Backend Architecture** | Engineered high-performance RESTful API endpoints for the 'Smart Employee' platform using **Node.js** & **Express** |
+| 🔧 **Backend Architecture** | Engineered high-performance RESTful API endpoints and backend microservices using **Node.js** & **Express** |
 | 🔐 **Security & Data Isolation** | Architected strict server-client panel isolation and RBAC, ensuring **100% compliance** with enterprise data privacy standards |
-| ⚡ **Performance Optimization** | Revamped assessor frontend with **React**, implementing local caching, parallel prefetching, and state optimization |
+| ⚡ **Performance Optimization** | Revamped frontend portals with **React**, implementing local caching, parallel prefetching, and state optimization |
 | 🔄 **System Modernization** | Led schema restructuring and migration from legacy tables to normalized, relational **MySQL** schemas |
 
 ---
