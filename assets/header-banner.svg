@@ -29,7 +29,7 @@
   
   <!-- Subtitle -->
   <text x="400" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.9)" text-anchor="middle">
-    Software Engineer | 4th Year CS Student
+    Software Engineer | Final Year CS Student
   </text>
   
   <!-- Decorative line -->
@@ -37,6 +37,6 @@
   
   <!-- Icons/emojis as text -->
   <text x="400" y="175" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="rgba(255,255,255,0.8)" text-anchor="middle">
-    💻 Full-Stack Developer | 🎓 4th Year BSc CS | 🇱🇰 Sri Lanka
+    💻 Full-Stack Developer | 🎓 Final Year BSc CS | 🇱🇰 Sri Lanka
   </text>
 </svg>
