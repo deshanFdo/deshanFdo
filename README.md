@@ -7,7 +7,7 @@
 
 <!-- Typing Animation (Local) -->
 <div align="center">
-  <img src="./assets/typing-text.svg" alt="Software Engineer Intern @ Sri Lanka Telecom" width="600"/>
+  <img src="./assets/typing-text.svg" alt="Software Engineer | 4th Year CS Student" width="600"/>
 </div>
 
 <br/>
@@ -29,9 +29,8 @@
 ```typescript
 const deshan: Developer = {
     name: "Deshan Fernando",
-    role: "Software Engineer Intern",
-    company: "Sri Lanka Telecom",
-    education: "BSc Computer Science @ Westminster",
+    role: "Software Engineer",
+    education: "BSc (Hons) Computer Science (4th Year) @ Westminster",
     location: "Colombo, Sri Lanka 🇱🇰",
     
     currentlyWorking: [
@@ -48,8 +47,8 @@ const deshan: Developer = {
 };
 ```
 
-- 🏢 **Software Engineer Intern** at **Sri Lanka Telecom**
-- 🎓 Pursuing **BSc (Hons) Computer Science** at **University of Westminster**
+- 🎓 4th Year **BSc (Hons) Computer Science** Undergraduate at **University of Westminster**
+- 💼 Former **Software Engineer Intern** at **Sri Lanka Telecom**
 - 🏆 **Top 10 Finalist** in IEEE Xtreme Encode Competition
 - 🔧 Building scalable full-stack applications with **React, Node.js & MySQL**
 - 🌱 Always learning and exploring new technologies
@@ -65,7 +64,7 @@ const deshan: Developer = {
 <tr>
 <td width="80" align="center">🎓</td>
 <td>
-  <strong>BSc (Hons) in Computer Science</strong><br/>
+  <strong>BSc (Hons) in Computer Science (4th Year)</strong><br/>
   University of Westminster, UK<br/>
   <em>Jan 2023 - Present</em><br/>
   📚 Advanced Algorithms • Database Architecture • OOP
@@ -88,8 +87,8 @@ const deshan: Developer = {
 
 <div align="center">
   <h3>🏢 Sri Lanka Telecom</h3>
-  <strong>Software Engineer Intern</strong><br/>
-  <em>June 2025 - Present | Colombo, Sri Lanka</em>
+  <strong>Software Engineer Intern (Former)</strong><br/>
+  <em>Colombo, Sri Lanka</em>
 </div>
 
 <br/>
