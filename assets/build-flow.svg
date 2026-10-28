@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-labelledby="title desc">
+  <title id="title">From problem to working software</title>
+  <desc id="desc">A glowing signal travels through Understand, Design, Build, and Test and iterate.</desc>
+  <defs>
+    <linearGradient id="line"><stop stop-color="#818cf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+  </defs>
+  <style>
+    text {font-family:Segoe UI,Arial,sans-serif;fill:#e2e8f0;text-anchor:middle}
+    .step {fill:#161b2d;stroke:#42496b}
+    .signal {stroke-dasharray:24 700;animation:flow 6s linear infinite}
+    @keyframes flow {from{stroke-dashoffset:24}to{stroke-dashoffset:-700}}
+    @media (prefers-reduced-motion:reduce) {.signal{animation:none;stroke-dasharray:none}}
+  </style>
+  <rect width="800" height="150" rx="18" fill="#0d1117"/>
+  <path d="M100 63H700" stroke="#303951" stroke-width="3"/>
+  <path class="signal" d="M100 63H700" stroke="url(#line)" stroke-width="4" fill="none"/>
+  <rect class="step" x="26" y="34" width="150" height="58" rx="14"/>
+  <rect class="step" x="226" y="34" width="150" height="58" rx="14"/>
+  <rect class="step" x="426" y="34" width="150" height="58" rx="14"/>
+  <rect class="step" x="626" y="34" width="150" height="58" rx="14"/>
+  <g font-size="17" font-weight="600"><text x="101" y="69">Understand</text><text x="301" y="69">Design</text><text x="501" y="69">Build</text><text x="701" y="69">Test &amp; iterate</text></g>
+  <g font-size="12"><text x="101" y="119">The problem</text><text x="301" y="119">Data and APIs</text><text x="501" y="119">Backend + interface</text><text x="701" y="119">Feedback and fixes</text></g>
+</svg>
